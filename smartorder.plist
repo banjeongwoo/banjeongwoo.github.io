@@ -23,15 +23,15 @@ ict>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>kr.bos.ios.hipaymanage</string>
+				<string>kr.bos.app.ios.smartorder</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.0.5</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>hipaymanage</string>
+				<string>SmartOrder</string>
 			</dict>
 		</dict>
 	</array>
